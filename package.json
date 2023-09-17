@@ -1,5 +1,5 @@
 {
-  "name": "chest-ui",
+  "name": "@mafly/chest-ui",
   "version": "1.0.0",
   "description": "ChestUI for Minecraft Bedrock Edition",
   "scripts": {
