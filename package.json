@@ -1,0 +1,22 @@
+{
+  "name": "chest-ui",
+  "version": "1.0.0",
+  "description": "ChestUI for Minecraft Bedrock Edition",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekoplii/chest-ui.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "ChestUI"
+  ],
+  "author": "Mafly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekoplii/chest-ui/issues"
+  },
+  "homepage": "https://github.com/Nekoplii/chest-ui#readme"
+}
